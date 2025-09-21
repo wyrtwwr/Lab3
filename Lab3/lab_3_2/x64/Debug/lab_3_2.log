@@ -1,0 +1,5 @@
+﻿  task2.c
+C:\Users\prudn\source\repos\Lab3\lab_3_2\task2.c(24,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\prudn\source\repos\Lab3\lab_3_2\task2.c(25,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\prudn\source\repos\Lab3\lab_3_2\task2.c(26,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab_3_2.vcxproj -> C:\Users\prudn\source\repos\Lab3\x64\Debug\lab_3_2.exe

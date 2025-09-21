@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prudn\\source\\repos\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCD8D687-D26D-4A53-B908-602593E79F39}|Lab3_5\\Lab3_5.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_5\\task4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCD8D687-D26D-4A53-B908-602593E79F39}|Lab3_5\\Lab3_5.vcxproj|solutionrelative:Lab3_5\\task4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A8F154-CFF5-4673-80FD-B91BB919764B}|Lab3_3\\Lab3_3.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_3\\task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7A8F154-CFF5-4673-80FD-B91BB919764B}|Lab3_3\\Lab3_3.vcxproj|solutionrelative:Lab3_3\\task3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0585A7-126B-4280-B312-E493588D9465}|Lab4_4\\Lab4_4.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab3\\Lab4_4\\task4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7D0585A7-126B-4280-B312-E493588D9465}|Lab4_4\\Lab4_4.vcxproj|solutionrelative:Lab4_4\\task4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAADD38F-552F-401A-9F03-51280E51E9E8}|lab_3_2\\lab_3_2.vcxproj|C:\\Users\\prudn\\source\\repos\\Lab3\\lab_3_2\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAADD38F-552F-401A-9F03-51280E51E9E8}|lab_3_2\\lab_3_2.vcxproj|solutionrelative:lab_3_2\\task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_5\\task4.c",
+              "RelativeDocumentMoniker": "Lab3_5\\task4.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_5\\task4.c",
+              "RelativeToolTip": "Lab3_5\\task4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-21T17:47:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task4.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab4_4\\task4.c",
+              "RelativeDocumentMoniker": "Lab4_4\\task4.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab4_4\\task4.c",
+              "RelativeToolTip": "Lab4_4\\task4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-21T17:43:45.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task3.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_3\\task3.c",
+              "RelativeDocumentMoniker": "Lab3_3\\task3.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab3\\Lab3_3\\task3.c",
+              "RelativeToolTip": "Lab3_3\\task3.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-21T17:26:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task2.c",
+              "DocumentMoniker": "C:\\Users\\prudn\\source\\repos\\Lab3\\lab_3_2\\task2.c",
+              "RelativeDocumentMoniker": "lab_3_2\\task2.c",
+              "ToolTip": "C:\\Users\\prudn\\source\\repos\\Lab3\\lab_3_2\\task2.c",
+              "RelativeToolTip": "lab_3_2\\task2.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-21T16:17:53.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Lab3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task.c
+C:\Users\prudn\source\repos\Lab3\Lab3\task.c(8,9): warning C4101: dym: неиспользованная локальная переменная
+C:\Users\prudn\source\repos\Lab3\Lab3\task.c(10,11): warning C4101: result: неиспользованная локальная переменная
+C:\Users\prudn\source\repos\Lab3\Lab3\task.c(13,1): warning C4716: header: должна возвращать значение
+  Lab3.vcxproj -> C:\Users\prudn\source\repos\Lab3\x64\Debug\Lab3_1.exe
