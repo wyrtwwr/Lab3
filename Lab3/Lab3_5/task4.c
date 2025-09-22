@@ -17,6 +17,6 @@ int main() {
 
     total = kolvo * price;
 
-    printf("Общая стоимость покупки: %.2f\n", total);
+    printf("Общая стоимость покупки: %.4f\n", total);
 
 }
