@@ -17,7 +17,7 @@ int main() {
     float resultI;
     float resultC;
 
-    puts("введите значение для расчета:");
+    puts("РІРІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ РґР»СЏ СЂР°СЃС‡РµС‚Р°:");
 
     scanf("%d", &dym);
 
@@ -25,7 +25,7 @@ int main() {
     resultI = I * dym;
     resultC = C * dym;
 
-    printf("%d дюймов – это % .3f см\n", dym, result);
-    printf("%d дюймов – это испанского % .3f см\n", dym, resultI);
-    printf("%d дюймов – это старолитовского % .3f см", dym, resultC);
+    printf("%d РґСЋР№РјРѕРІ вЂ“ СЌС‚Рѕ Р°РЅРіР» %.3f Г±Г¬\n", dym, result);
+    printf("%d РґСЋР№РјРѕРІ вЂ“ СЌС‚Рѕ РёСЃРїРЅСЃРєРѕРіРѕ %.3f Г±Г¬\n", dym, resultI);
+    printf("%d РґСЋР№РјРѕРІ вЂ“ СЌС‚Рѕ СЃС‚Р°СЂРѕР»РёС‚РѕРІСЃРєРѕРіРѕ %.3f Г±Г¬", dym, resultC);
 }
