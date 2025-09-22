@@ -9,7 +9,7 @@ int header() {
 
     float result;
 
-    puts("введите значение для расчета:");
+    puts("РІРІРµРґРёС‚Рµ С‡РёСЃР»Рѕ:");
 }
 
 int main() {
@@ -17,27 +17,27 @@ int main() {
 
     int num;
     int num2;
-    puts("введите число:");
+    puts("РІРІРµРґРёС‚Рµ С‡РёСЃР»Рѕ 1:");
 
     scanf("%d", &num);
 
-    printf("Введено число:\n%d\n", num);
+    printf("РІРІРµРґРµРЅРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ:\n%d\n", num);
 
-    puts("введите второе число:");
+    puts("РІРІРµРґРёС‚Рµ С‡РёСЃР»Рѕ 2:");
 
     scanf("%d", &num2);
 
-    printf("Введено второе число:\n%d\n", num2);
+    printf("РІРІРµРґРµРЅРЅРѕРµ Р·РЅР°С‡РµРЅРёРµ:\n%d\n", num2);
 
-    printf("сумма:%d\n", num + num2);
+    printf("СЃСѓРјРјР°:%d\n", num + num2);
 
-    printf("разность:%d\n", num2 - num);
+    printf("СЂР°Р·РЅРѕСЃС‚СЊ:%d\n", num2 - num);
 
-    printf("произведение:%d\n", num2 * num);
+    printf("РїСЂРѕРёР·РІРµРґРµРЅРёРµ:%d\n", num2 * num);
 
-    printf("частное:%d\n", num2 / num);
+    printf("СЂР°Р·РЅРѕСЃС‚СЊ:%d\n", num2 / num);
 
-    printf("остаток от деления:%d\n", num2 % num);
+    printf("СЃС‚Р°С‚РѕРє РѕС‚ РґРµР»РµРЅРёСЏ:%d\n", num2 % num);
 
     
 }
