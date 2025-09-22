@@ -25,7 +25,7 @@ int main() {
     resultI = I * dym;
     resultC = C * dym;
 
-    printf("%d дюймов – это англ %.3f ñì\n", dym, result);
-    printf("%d дюймов – это испнского %.3f ñì\n", dym, resultI);
-    printf("%d дюймов – это старолитовского %.3f ñì", dym, resultC);
+    printf("%d дюймов – это англ %.3f см\n", dym, result);
+    printf("%d дюймов – это испнского %.3f см\n", dym, resultI);
+    printf("%d дюймов – это старолитовского %.3f см", dym, resultC);
 }
